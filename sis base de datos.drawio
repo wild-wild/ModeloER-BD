@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="BgEUgIXVF9JAin6NmmYM">
-    <mxGraphModel>
+    <mxGraphModel dx="899" dy="431" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VjS8RUSLuPDRMbRv6DW_-1" target="VjS8RUSLuPDRMbRv6DW_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-1" value="ARTICULOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="152" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-2" value="Titulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="74" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-3" value="Resumen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="104" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-4" value="Categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="234" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-5" value="Autor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="167" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-6" value="Etiquetas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="244" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjS8RUSLuPDRMbRv6DW_-7" value="Imagen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="152" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
