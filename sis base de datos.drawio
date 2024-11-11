@@ -89,7 +89,7 @@
           <mxGeometry x="931" y="214" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U4oDMc-3Pv_o8gQOZ0Js-22" value="palabras claves" style="ellipse;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="803" y="264" width="120" height="30" as="geometry" />
+          <mxGeometry x="816.5" y="274" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U4oDMc-3Pv_o8gQOZ0Js-24" value="Fecha de publicacion" style="ellipse;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="379" y="208" width="120" height="30" as="geometry" />
